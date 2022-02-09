@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container-buttom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cont-title {
+  padding: 10px;
+}
+
+.container-games {
+  text-align: center;
+  padding: 10px;
+}
+
+.container-games buttom {
+  padding: 5px;
+}
